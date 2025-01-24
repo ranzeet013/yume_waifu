@@ -4,6 +4,11 @@ Yume Waifus is an API-based web application built using **FastAPI** that allows 
 
 **Disclaimer**: I was really bored and didn’t know what to do, so I landed on this project. Don’t judge, it's a fun little thing, and I just went with it. 😅
 
+<p align="center">
+  <img src="https://github.com/ranzeet013/yume_waifu/blob/main/yume_waifu/IMG_20250124_220824.png" alt="FlirtyHuh Logo" width="300">
+</p>
+
+
 ## Key Features of Yume Waifus
 
 ### Waifu Image Generation:
